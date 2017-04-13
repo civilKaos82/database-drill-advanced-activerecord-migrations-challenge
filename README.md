@@ -1,8 +1,8 @@
 # Database Drill Advanced Activerecord Migrations 
  
-##Learning Competencies 
+## Learning Competencies 
 
-##Summary 
+## Summary 
 
  In this challenge, you'll learn how to use [ActiveRecord migrations](http://guides.rubyonrails.org/migrations.html) to do more than just creating and dropping tables. Specifically, we'll learn how to add and remove columns, as well as more advanced things like merging two columns into one.
 
@@ -58,9 +58,9 @@ $ rspec spec/migrate_timestamps_spec.rb
 All tests should pass.
  
 
-##Releases
-###Release 0 
+## Releases
+### Release 0 
 
-##Optimize Your Learning 
+## Optimize Your Learning 
 
-##Resources
+## Resources
